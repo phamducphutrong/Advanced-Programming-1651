@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.csproj.AssemblyReference.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.AssemblyInfoInputs.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.AssemblyInfo.cs
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\bin\Debug\net6.0\AutoSellingTicket.exe
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\bin\Debug\net6.0\AutoSellingTicket.deps.json
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\bin\Debug\net6.0\AutoSellingTicket.runtimeconfig.json
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\bin\Debug\net6.0\AutoSellingTicket.dll
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\bin\Debug\net6.0\AutoSellingTicket.pdb
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.dll
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\refint\AutoSellingTicket.dll
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.pdb
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\AutoSellingTicket.genruntimeconfig.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket\obj\Debug\net6.0\ref\AutoSellingTicket.dll

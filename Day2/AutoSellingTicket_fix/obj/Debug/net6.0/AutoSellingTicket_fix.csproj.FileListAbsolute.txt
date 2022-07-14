@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.csproj.AssemblyReference.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.AssemblyInfoInputs.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.AssemblyInfo.cs
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\bin\Debug\net6.0\AutoSellingTicket_fix.exe
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\bin\Debug\net6.0\AutoSellingTicket_fix.deps.json
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\bin\Debug\net6.0\AutoSellingTicket_fix.runtimeconfig.json
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\bin\Debug\net6.0\AutoSellingTicket_fix.dll
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\bin\Debug\net6.0\AutoSellingTicket_fix.pdb
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.dll
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\refint\AutoSellingTicket_fix.dll
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.pdb
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\AutoSellingTicket_fix.genruntimeconfig.cache
+C:\Users\phamd\Documents\Advanced Programming (1651)\Day2\AutoSellingTicket_fix\obj\Debug\net6.0\ref\AutoSellingTicket_fix.dll

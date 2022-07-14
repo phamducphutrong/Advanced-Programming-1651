@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\Day1\HelloFunction\bin\Debug\net6.0\HelloFunction.exe
+C:\Users\phamd\Documents\Day1\HelloFunction\bin\Debug\net6.0\HelloFunction.deps.json
+C:\Users\phamd\Documents\Day1\HelloFunction\bin\Debug\net6.0\HelloFunction.runtimeconfig.json
+C:\Users\phamd\Documents\Day1\HelloFunction\bin\Debug\net6.0\HelloFunction.dll
+C:\Users\phamd\Documents\Day1\HelloFunction\bin\Debug\net6.0\HelloFunction.pdb
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.csproj.AssemblyReference.cache
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.AssemblyInfoInputs.cache
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.AssemblyInfo.cs
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.dll
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\refint\HelloFunction.dll
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.pdb
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\HelloFunction.genruntimeconfig.cache
+C:\Users\phamd\Documents\Day1\HelloFunction\obj\Debug\net6.0\ref\HelloFunction.dll
