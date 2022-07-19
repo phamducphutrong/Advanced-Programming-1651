@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.csproj.AssemblyReference.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.AssemblyInfoInputs.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.AssemblyInfo.cs
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\bin\Debug\net6.0\BuaLaKeo.exe
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\bin\Debug\net6.0\BuaLaKeo.deps.json
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\bin\Debug\net6.0\BuaLaKeo.runtimeconfig.json
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\bin\Debug\net6.0\BuaLaKeo.dll
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\bin\Debug\net6.0\BuaLaKeo.pdb
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.dll
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\refint\BuaLaKeo.dll
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.pdb
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\BuaLaKeo.genruntimeconfig.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day3\BuaLaKeo\obj\Debug\net6.0\ref\BuaLaKeo.dll

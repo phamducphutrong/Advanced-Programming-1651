@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.csproj.AssemblyReference.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.AssemblyInfoInputs.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.AssemblyInfo.cs
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\bin\Debug\net6.0\DemoStudent.exe
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\bin\Debug\net6.0\DemoStudent.deps.json
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\bin\Debug\net6.0\DemoStudent.runtimeconfig.json
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\bin\Debug\net6.0\DemoStudent.dll
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\bin\Debug\net6.0\DemoStudent.pdb
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.dll
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\refint\DemoStudent.dll
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.pdb
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\DemoStudent.genruntimeconfig.cache
+C:\Users\phamd\Documents\GitHub\Advanced-Programming-1651\Day2\DemoStudent\obj\Debug\net6.0\ref\DemoStudent.dll

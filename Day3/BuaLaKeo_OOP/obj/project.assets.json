@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\DemoStudent.csproj",
-      "projectName": "DemoStudent",
-      "projectPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\DemoStudent.csproj",
+      "projectUniqueName": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_OOP\\BuaLaKeo_OOP.csproj",
+      "projectName": "BuaLaKeo_OOP",
+      "projectPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_OOP\\BuaLaKeo_OOP.csproj",
       "packagesPath": "C:\\Users\\phamd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\obj\\",
+      "outputPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phamd\\AppData\\Roaming\\NuGet\\NuGet.Config"

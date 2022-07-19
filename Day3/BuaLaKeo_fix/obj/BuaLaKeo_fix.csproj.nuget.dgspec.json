@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\DemoStudent.csproj": {}
+    "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_fix\\BuaLaKeo_fix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\DemoStudent.csproj": {
+    "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_fix\\BuaLaKeo_fix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\DemoStudent.csproj",
-        "projectName": "DemoStudent",
-        "projectPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\DemoStudent.csproj",
+        "projectUniqueName": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_fix\\BuaLaKeo_fix.csproj",
+        "projectName": "BuaLaKeo_fix",
+        "projectPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_fix\\BuaLaKeo_fix.csproj",
         "packagesPath": "C:\\Users\\phamd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day2\\DemoStudent\\obj\\",
+        "outputPath": "C:\\Users\\phamd\\Documents\\GitHub\\Advanced-Programming-1651\\Day3\\BuaLaKeo_fix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamd\\AppData\\Roaming\\NuGet\\NuGet.Config"
